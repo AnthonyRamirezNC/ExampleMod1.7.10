@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.anthony.forgetestmod;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;

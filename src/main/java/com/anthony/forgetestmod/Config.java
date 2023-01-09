@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.anthony.forgetestmod;
 
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.common.config.Property;
